@@ -48,12 +48,11 @@ function removeElementFromEndOfArray(array) {
 
 ----------------------------------
 var x
-function log() {} 
-
-
-log();
 function log() {
   console.log(greeting);
   var greeting = 'Hello!';
 }
-  var x = 'this is x'
+
+
+log();
+x = 'this is x'
